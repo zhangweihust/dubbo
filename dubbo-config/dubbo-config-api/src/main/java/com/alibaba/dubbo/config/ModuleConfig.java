@@ -30,7 +30,7 @@ public class ModuleConfig extends AbstractConfig {
 
     private static final long    serialVersionUID = 5508512956753757169L;
 
-    // 模块名称
+    // 模块名称 zw
     private String               name;
 
     // 模块版本
